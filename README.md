@@ -20,3 +20,9 @@ From 2.3% per transaction
 http://latcard.lv/en/services/latcard-commissions
 
 You can use our online calculator to estimate Visa/MasterCard transaction fee
+
+For account setup contact us
+http://latcard.lv/en/merchant-registration
+
+Merchant registration
+http://latcard.lv/en/merchant-registration
