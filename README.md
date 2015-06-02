@@ -2,9 +2,11 @@
 Payment gateway Visa/MasterCard
 
 * required soap client php
+* required curl php
 
-Install php soap with centOS:
-yum install php-soap
+Install with centOS
+
+yum install php-soap php-curl
 
 JSC LatCard — Latvian payment service provider. Company is certified VISA IPSP and MasterCard MSP. LatCard is European registered E-Money institution.
 
